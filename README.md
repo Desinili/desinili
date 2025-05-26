@@ -7,7 +7,7 @@ Im a Roblox scripter, and sort of a UI designer, with over 4+ years of experienc
 - 1 year of basic/semi-complex UI development. Can make UI designs using Roblox UI elements to make your game *pop*
 
 ## Availablity
-I will usually be available during Monday-Thursday and the occasional Friday and Saturday. :)
+I will usually be available during the weekdays.
 
 ## Past Work
 
@@ -37,3 +37,6 @@ I will usually be available during Monday-Thursday and the occasional Friday and
   https://github.com/user-attachments/assets/d940e503-c46c-46ba-9518-0b473f017d70
 
   https://github.com/user-attachments/assets/fb814c41-6f96-4063-a6a8-e9f941f01052
+
+## Contact
+You can contact me via [Discord](https://discord.com/users/553948931034447887) (desinili)
