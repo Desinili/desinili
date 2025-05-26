@@ -20,11 +20,12 @@ I will usually be available during the weekdays.
   - Datastore Management
 
 ## Personal Projects
-- **Character Creation System & Police MDT System - Personal Project**
-  - Create a custom character (multiple characters could be added)
-    - Full Name, Job, Set Cash
-    - View Criminal History
-  -  DMV System
+<details><summary><b>Character Creation System & Police MDT System - Personal Project</b></summary>
+  
+- Create a custom character (multiple characters could be added)
+  - Full Name, Job, Set Cash
+  - View Criminal History
+-  DMV System
     - Register Vehicles under a specific character
     - Register Licenses under a specific character
   - MDT Panel
@@ -33,10 +34,11 @@ I will usually be available during the weekdays.
     - View a character criminal history
     - Included a Dispatch Panel and 911 System (user could be dispatch)
   - Link Discord Account to the game
-
+    
   https://github.com/user-attachments/assets/d940e503-c46c-46ba-9518-0b473f017d70
 
   https://github.com/user-attachments/assets/fb814c41-6f96-4063-a6a8-e9f941f01052
+</details>
 
 ## Contact
 You can contact me via [Discord](https://discord.com/users/553948931034447887) (desinili)
